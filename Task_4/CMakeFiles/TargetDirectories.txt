@@ -1,0 +1,3 @@
+/home/Aleksandr1/Documents/453505/OAuP/LR4/Task_4/CMakeFiles/task4.dir
+/home/Aleksandr1/Documents/453505/OAuP/LR4/Task_4/CMakeFiles/edit_cache.dir
+/home/Aleksandr1/Documents/453505/OAuP/LR4/Task_4/CMakeFiles/rebuild_cache.dir
